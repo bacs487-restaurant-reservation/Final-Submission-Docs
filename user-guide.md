@@ -4,7 +4,7 @@
 - Once you have selected a restaurant and are viewing the seating chart of the restaurant, you may select whichever table you like. Each restaurant has a variety of tables that you can choose from. 
 - Once you have selected a table of your choice, by pressing the "SELECT" button, a random code will appear that you can show to the host once you have arrived at the restaurant. 
 
-## Installing the API locally
+## Installing the frontend locally
 
 - Copy the frontend repository:
 ```
