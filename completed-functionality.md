@@ -5,3 +5,5 @@
   - Each table will generate a completely random 6 digit code. If you click on the same table twice you will get a new code as well
 -	You are able to move back from restaurant pages to the search page
 -	You are able to click on the “Employee Login” button and log in as an employee. 
+-	Once logged in you are able to close down tables on the employee side
+-	A pop up will appear on your screen displaying the table that you have closed down. 
