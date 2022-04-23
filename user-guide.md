@@ -43,6 +43,10 @@ git clone https://github.com/bacs487-restaurant-reservation/restaurant-reservati
 
 ``` npm install ```
 
+- Install the required express packages
+
+``` npm install express ```
+
 - Run the API
 ``` node App.js ```
 
