@@ -17,6 +17,9 @@ git clone https://github.com/bacs487-restaurant-reservation/restaurant-frontend-
 - Install the required NPM packages:
 ``` npm install ```
 
+- Install the required Auth0 packages:
+``` npm install @auth0/auth0-react  ```
+
 - Run the frontend:
 ``` npm start ```
 
