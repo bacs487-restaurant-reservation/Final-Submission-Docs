@@ -28,3 +28,21 @@ You will  notice that the default frontend is connect to local json data rather 
 
 Search examples
 - 80524
+
+## Installing the API locally
+- Copy the API repository:
+```
+git clone https://github.com/bacs487-restaurant-reservation/restaurant-reservation-api.git
+```
+
+- cd into the working directory and then the src directory
+``` cd restaurant-reservation-api/src ```
+
+- Install the required NPM packages:
+
+``` npm install ```
+
+- Run the API
+``` node App.js ```
+
+The api is now open on port 8080.
