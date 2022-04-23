@@ -12,11 +12,9 @@ git clone https://github.com/bacs487-restaurant-reservation/restaurant-frontend-
 ```
 
 - cd into the working directory and then the src directory
-
 ```cd restaurant-frontend-doug/src```
 
 - Install the required NPM packages:
-
 ``` npm install ```
 
 - Run the frontend:
